@@ -1,0 +1,3 @@
+[submodule "MPS"]
+	path = MPS
+	url = git@github.com:JetBrains/MPS.git
