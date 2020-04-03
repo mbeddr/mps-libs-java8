@@ -6,7 +6,7 @@
 
     <groupId>com.jetbrains.mps.java8</groupId>
     <artifactId>java8-parent</artifactId>
-    <version>2019.2.4</version>
+    <version>2019.3.4</version>
     <packaging>pom</packaging>
 
     <properties>
